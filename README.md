@@ -102,7 +102,9 @@ int main()
 
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/a087a757-5682-4d22-886c-71d31e45fa00)
+![WhatsApp Image 2024-10-01 at 15 51 15_3558ea50](https://github.com/user-attachments/assets/f4fe87ab-e2d8-418e-be36-19e765a37b88)
+![WhatsApp Image 2024-10-01 at 15 51 50_986e9a97](https://github.com/user-attachments/assets/dedf6434-2fcd-486f-87f9-c1921db4519e)
+
 
 
 
